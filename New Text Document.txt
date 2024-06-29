@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>albeat bety</title>
+
+</head>
+
+<body>
+<marquee bgcolor='gold'>
+
+<font size='10'color='white'>
+
+<p>my favourite move is albeat beaty</p>
+
+</font>
+
+</marquee>
+
+<h1>albeat beaty2</h1>
+
+<img src="./sa.jpg"height="300"weidth="300"/>
